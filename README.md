@@ -1,14 +1,5 @@
-# App name
+# Example Zendesk App
 
-[brief description of the app]
+### Demonstrates how to get & set localStorage items via a Zendesk App
 
-### The following information is displayed:
-
-* info1
-* info2
-* info3
-
-Please submit bug reports to [Insert Link](). Pull requests are welcome.
-
-### Screenshot(s):
-[put your screenshots down here.]
+[Zendesk app documentation on localStorage](https://developer.zendesk.com/apps/docs/agent/storage#metadata-storage)
