@@ -1,5 +1,5 @@
 {
-  "name": "localStorage",
+  "name": "localStorage Demo App",
   "author": {
     "name": "jeremiah",
     "email": "jeremiah@zendesk.com",
@@ -7,7 +7,8 @@
   },
   "defaultLocale": "en",
   "private": true,
-  "location": "ticket_sidebar",
+  "location": ["ticket_sidebar", "new_ticket_sidebar"],
   "version": "1.0",
-  "frameworkVersion": "1.0"
+  "frameworkVersion": "1.0",
+  "noTemplate": true
 }
