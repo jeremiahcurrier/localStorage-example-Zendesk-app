@@ -7,7 +7,7 @@
 **Get value of 'key' from localStorage**
 
 ```
-this.store('key') // getter
+this.store('key')
 ```
 
 **Set value of 'key' & store in localStorage**
